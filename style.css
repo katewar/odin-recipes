@@ -1,0 +1,12 @@
+/* style.css */
+
+body {
+background-color: #e8f4ea;
+font-family: Arial, sans-serif;
+margin: 1rem 0 1rem 1rem;
+}
+
+span {
+    color: green;
+    font-style: italic;
+}
