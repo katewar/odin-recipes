@@ -6,6 +6,16 @@ font-family: Arial, sans-serif;
 margin: 1rem 0 1rem 1rem;
 }
 
+/* Remove list bullets */
+ul {
+    list-style-type: none;
+}
+
+/* Remove underline decoration for links */
+a {
+    text-decoration: none;
+} 
+
 span {
     color: green;
     font-style: italic;
