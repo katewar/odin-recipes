@@ -21,6 +21,12 @@ margin: 1rem 0 1rem 1rem;
     font-size: 24px;
 }
 
+.recipe-title {
+    color: #e8f3dc;
+    font-size: 24px;
+    font-weight: bold;
+}
+
 .navigation {
     padding: 4px;
 }
@@ -42,9 +48,15 @@ ul {
 /* Remove underline decoration for links */
 a {
     text-decoration: none;
+    color: #e6dd8c;
 } 
+
+a:visited {
+    color: #e68fac;
+}
 
 span {
     color: green;
     font-style: italic;
+    background-color: #b8a992;
 }
