@@ -7,6 +7,24 @@ font-family: Moderustic, sans-serif;
 margin: 1rem 0 1rem 1rem;
 }
 
+.container {
+    background-color: #537150;
+}
+
+.header {
+    padding: 12px;
+}
+
+.logo-text {
+    color: #e8f3dc;
+    font-family: Caudex;
+    font-size: 24px;
+}
+
+.navigation {
+    padding: 4px;
+}
+
 /* Remove list bullets */
 ul {
     list-style-type: none;
