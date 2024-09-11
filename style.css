@@ -42,9 +42,20 @@ body {
     font-size: 14px;
 }
 
+.recipe-text {
+    text-align: left;
+    padding: 1rem;
+}
+
+.recipe-text ul {
+    list-style-type: disc;
+    padding-left: 40px;
+}
+
 /* Remove list bullets */
 ul {
     list-style-type: none;
+    padding: 0px;
 }
 
 /* Remove underline decoration for links */
