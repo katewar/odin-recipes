@@ -1,3 +1,13 @@
+## Version 2.0 Release (14-10-2024)
+* Imported new fonts
+* Chose new theme colors
+* Centered all page content
+* Added a header and footer
+* Removed default list padding
+* Created recipes.html as a central hub for the list of recipes
+* Added div containers to organize html page content
+    * Updated CSS file to add style properties to new container elements
+
 # Odin Recipes Website - The Cilantro Bible
 This is a simple recipes website project based off The Odin Project curriculum.
 
